@@ -1,0 +1,3 @@
+﻿  CalculateAverageResultOfYearProject.cpp
+D:\Programation Files\Programation Level 1\CalculateAverageResultOfYearProject\CalculateAverageResultOfYearProject.cpp(43,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  CalculateAverageResultOfYearProject.vcxproj -> D:\Programation Files\Programation Level 1\CalculateAverageResultOfYearProject\x64\Debug\CalculateAverageResultOfYearProject.exe
